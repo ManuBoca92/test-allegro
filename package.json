@@ -1,0 +1,23 @@
+{
+  "name": "vrp-allegro-test",
+  "version": "1.0.0",
+  "description": "vrp recruitment test on allegro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuBoca92/vrp-test-allegro.git"
+  },
+  "author": "Ebonom Mfam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuBoca92/vrp-test-allegro/issues"
+  },
+  "homepage": "https://github.com/ManuBoca92/vrp-test-allegro#readme",
+  "devDependencies": {
+    "cypress": "^4.6.0",
+    "cypress-xpath": "^1.6.0"
+  }
+}
